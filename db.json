@@ -4,28 +4,32 @@
     {
       "id": 1,
       "title": "Pintura",
-      "price": "850,78",
+      "description" : "Pintura blanca",
+      "price": 850.78,
       "img": "https://http2.mlstatic.com/optimize/o:f_webp/resources/deals/exhibitors_resources/mla-home-desktop-discovery-picture-aebb9f69-003c-42e9-a5ed-08946e5c70dd.jpg",
       "sku": 10
     },
     {
       "id": 2,
       "title": "Pochoclera",
-      "price": "1000,00",
+      "description" : "Pochoclera electrica",
+      "price": 1150,
       "img": "https://http2.mlstatic.com/D_Q_NP_686455-MLA31040264889_062019-AB.webp",
       "sku": 15
     },
     {
       "id": 3,
       "title": "Libro",
-      "price": "500,00",
+      "description" : "Libro Isabel Allende",
+      "price": 500,
       "img": "https://http2.mlstatic.com/largo-petalo-de-mar-isabel-allende-libro-nuevo-D_NQ_NP_615648-MLA31506065250_072019-V.webp",
       "sku": 3
     },
     {
       "id": 4,
       "title": "Telefono",
-      "price": "9000,00",
+      "description" : "Telefono Samsung 2020",
+      "price": 9000,
       "img": "https://http2.mlstatic.com/D_Q_NP_724154-MLA41703703269_052020-AB.webp",
       "sku": 5
     }
