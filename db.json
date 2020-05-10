@@ -1,11 +1,10 @@
 {
-  "posts": [
+  "productos": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "pintura",
+      "price": "850,78",
+      "img": "https://http2.mlstatic.com/optimize/o:f_webp/resources/deals/exhibitors_resources/mla-home-desktop-discovery-picture-aebb9f69-003c-42e9-a5ed-08946e5c70dd.jpg"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
