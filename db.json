@@ -1,6 +1,6 @@
 {
               
-                "id": 1
+                "id":1
                 {
                 "id": 1,
                 "title": "Pochoclera",
@@ -9,7 +9,7 @@
                 "img": "https://http2.mlstatic.com/D_Q_NP_686455-MLA31040264889_062019-AB.webp",
                 "sku": 15
                 },                
-                "id": 2
+                "id":2
                 {
                 "id": 2,
                 "title": "Libro",
@@ -19,7 +19,7 @@
                 "sku": 10
                 },
               
-                "id": 3
+                "id":3
                 {
                 "id": 3,
                 "title": "Telefono",
@@ -28,7 +28,7 @@
                 "img": "https://http2.mlstatic.com/D_Q_NP_724154-MLA41703703269_052020-AB.webp",
                 "sku": 6
                 },
-                "id": 4
+                "id":4
                 {
                 "id": 4,
                 "title": "Silla Oficina",
@@ -37,7 +37,7 @@
                 "img": "https://http2.mlstatic.com/sillon-oficina-para-silla-D_NQ_NP_900825-MLA42274009764_062020-O.webp",
                 "sku": 13
                 },
-                "id": 5
+                "id":5
                 {
                 "id": 5,
                 "title": "Mate cuero",
