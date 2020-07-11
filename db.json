@@ -1,42 +1,49 @@
-[  
-  {
-    "id": 1,
-    "title": "Pochoclera",
-    "description": "Pochoclera electrica",
-    "price": 1150,
-    "img": "https://http2.mlstatic.com/D_Q_NP_686455-MLA31040264889_062019-AB.webp",
-    "sku": 15
-  },
-  {
-    "id": 2,
-    "title": "Libro",
-    "description": "Libro Isabel Allende",
-    "price": 500,
-    "img": "https://http2.mlstatic.com/largo-petalo-de-mar-isabel-allende-libro-nuevo-D_NQ_NP_615648-MLA31506065250_072019-V.webp",
-    "sku": 10
-  },
-  {
-    "id": 3,
-    "title": "Telefono",
-    "description": "Telefono Samsung 2020",
-    "price": 8000,
-    "img": "https://http2.mlstatic.com/D_Q_NP_724154-MLA41703703269_052020-AB.webp",
-    "sku": 6
-  },
-  {
-    "id": 4,
-    "title": "Silla Oficina",
-    "description": "Silla para oficinas/empresas",
-    "price": 14650,
-    "img": "https://http2.mlstatic.com/sillon-oficina-para-silla-D_NQ_NP_900825-MLA42274009764_062020-O.webp",
-    "sku": 13
-  },
-  {
-    "id": 5,
-    "title": "Mate cuero",
-    "description": "Mate camionero calabaza forrado en cuero",
-    "price": 1510,
-    "img": "https://http2.mlstatic.com/mate-uruguayo-camionero-calabaza-cuero-y-bombilla-pico-loro-D_NQ_NP_913394-MLA41930809294_052020-F.webp",
-    "sku": 30
-  }
-]
+{
+              
+                "id": 1
+                {
+                "id": 1,
+                "title": "Pochoclera",
+                "description": "Pochoclera electrica",
+                "price": 1150,
+                "img": "https://http2.mlstatic.com/D_Q_NP_686455-MLA31040264889_062019-AB.webp",
+                "sku": 15
+                },                
+                "id": 2
+                {
+                "id": 2,
+                "title": "Libro",
+                "description": "Libro Isabel Allende",
+                "price": 500,
+                "img": "https://http2.mlstatic.com/largo-petalo-de-mar-isabel-allende-libro-nuevo-D_NQ_NP_615648-MLA31506065250_072019-V.webp",
+                "sku": 10
+                },
+              
+                "id": 3
+                {
+                "id": 3,
+                "title": "Telefono",
+                "description": "Telefono Samsung 2020",
+                "price": 8000,
+                "img": "https://http2.mlstatic.com/D_Q_NP_724154-MLA41703703269_052020-AB.webp",
+                "sku": 6
+                },
+                "id": 4
+                {
+                "id": 4,
+                "title": "Silla Oficina",
+                "description": "Silla para oficinas/empresas",
+                "price": 14650,
+                "img": "https://http2.mlstatic.com/sillon-oficina-para-silla-D_NQ_NP_900825-MLA42274009764_062020-O.webp",
+                "sku": 13
+                },
+                "id": 5
+                {
+                "id": 5,
+                "title": "Mate cuero",
+                "description": "Mate camionero calabaza forrado en cuero",
+                "price": 1510,
+                "img": "https://http2.mlstatic.com/mate-uruguayo-camionero-calabaza-cuero-y-bombilla-pico-loro-D_NQ_NP_913394-MLA41930809294_052020-F.webp",
+                "sku": 30
+                }
+}
