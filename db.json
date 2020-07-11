@@ -21,7 +21,7 @@
     "description": "Telefono Samsung 2020",
     "price": 9000,
     "img": "https://http2.mlstatic.com/D_Q_NP_724154-MLA41703703269_052020-AB.webp",
-    "sku": 5
+    "sku": 6
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "description": "Silla para oficinas/empresas",
     "price": 14640,
     "img": "https://http2.mlstatic.com/sillon-oficina-para-silla-D_NQ_NP_900825-MLA42274009764_062020-O.webp",
-    "sku": 12
+    "sku": 13
   },
   {
     "id": 5,
